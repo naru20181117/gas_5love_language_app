@@ -4,7 +4,7 @@ This is an app for 5 love language test app. You can try and check your way to c
 ---
 ## 5 love language とは
 ### 出展
-[本元ホームページ(英語)](https://www.5lovelanguages.com/)
+[参考ホームページ(英語)](https://www.5lovelanguages.com/)
 
 チャップマン氏は著書において、5つの愛の言語について次のように説明しています。
 ```
