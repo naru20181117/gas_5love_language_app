@@ -1,22 +1,28 @@
 # gas_5love_language_app
 This is an app for 5 love language test app. You can try and check your way to communicate with people.
 
+---
 ## 5 love language とは
 ### 出展
 [本元ホームページ(英語)](https://www.5lovelanguages.com/)
 
 チャップマン氏は著書において、5つの愛の言語について次のように説明しています。
 ```
-感情的な愛を表現する言語は、基本的に5つあります。これが30年間におよぶ結婚カウンセリングを通して私のたどり着いた結論です。これは、人々が感情的な愛を語り、また理解する方法が5通りある、ということです。言語学の世界においては、1つの言語の中に数多くの方言や言語変異が存在します。（中略）問題は、あなたが結婚相手の愛の言語を語っているか、ということです。
+感情的な愛を表現する言語は、基本的に5つあります。
+これが30年間におよぶ結婚カウンセリングを通して私のたどり着いた結論です。
+これは、人々が感情的な愛を語り、また理解する方法が5通りある、ということです。
+言語学の世界においては、1つの言語の中に数多くの方言や言語変異が存在します。
+（中略）問題は、あなたが結婚相手の愛の言語を語っているか、ということです。
 ```
 ### 本での出会い
 私がとても気に入った本である[「愛を伝える5つの方法」](https://www.amazon.co.jp/%E6%84%9B%E3%82%92%E4%BC%9D%E3%81%88%E3%82%8B5%E3%81%A4%E3%81%AE%E6%96%B9%E6%B3%95-%E3%82%B2%E3%83%BC%E3%83%AA%E3%83%BC-%E3%83%81%E3%83%A3%E3%83%83%E3%83%97%E3%83%9E%E3%83%B3/dp/4264025656)を
-読み終わった上、本の中でも紹介されている５つの愛の手段について
+読み終わった上、
+本の中でも紹介されている５つの愛の手段について
 あなたがどれに当てはまるかがわかるアンケートを作りました。
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiMQs5493z7cEAIJysqDup4lXGbf-P4bfctavzoT1ECeraog/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">読み込んでいます…</iframe>
+[![Image from Gyazo](https://i.gyazo.com/c2964ea72b2660b56f923dbb8c7fc81f.gif)](https://gyazo.com/c2964ea72b2660b56f923dbb8c7fc81f)
 
-[フォームで答えたい方用](https://docs.google.com/forms/d/e/1FAIpQLSdiMQs5493z7cEAIJysqDup4lXGbf-P4bfctavzoT1ECeraog/viewform)
+[さっそく試したい方用(メールアドレス必要)](https://docs.google.com/forms/d/e/1FAIpQLSdiMQs5493z7cEAIJysqDup4lXGbf-P4bfctavzoT1ECeraog/viewform)
 
 ### 5 love languageについて説明（日本語訳）
 
